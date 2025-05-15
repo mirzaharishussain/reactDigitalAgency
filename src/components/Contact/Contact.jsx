@@ -22,7 +22,7 @@ const Contact = () => {
       <div className="section-content-wrapper">
         <div className="content-shape-1 fade-anim" data-direction="top" data-ease="bounce" data-delay="0.60"
           data-offset="100">
-          <img src="./assets/imgs/shape/shape-36.webp" alt="image"/>
+          <img src="/reactDigitalAgency/assets/imgs/shape/shape-36.webp" alt="image"/>
         </div>
         <div className="section-content">
           <div className="section-title-wrapper">
@@ -54,7 +54,7 @@ const Contact = () => {
         <div className="meta-wrapper">
           <div className="contact-meta-box">
             <div className="thumb">
-              <img src="./assets/imgs/icon/icon-22.webp" alt="image"/>
+              <img src="/reactDigitalAgency/assets/imgs/icon/icon-22.webp" alt="image"/>
             </div>
             <div className="content">
               <h3 className="title">Email Us</h3>
@@ -68,7 +68,7 @@ const Contact = () => {
           </div>
           <div className="contact-meta-box active">
             <div className="thumb">
-              <img src="./assets/imgs/icon/icon-23.webp" alt="image"/>
+              <img src="/reactDigitalAgency/assets/imgs/icon/icon-23.webp" alt="image"/>
             </div>
             <div className="content">
               <h3 className="title">Phone Us</h3>
@@ -82,7 +82,7 @@ const Contact = () => {
           </div>
           <div className="contact-meta-box">
             <div className="thumb">
-              <img src="./assets/imgs/icon/icon-24.webp" alt="image"/>
+              <img src="/reactDigitalAgency/assets/imgs/icon/icon-24.webp" alt="image"/>
             </div>
             <div className="content">
               <h3 className="title">Visit Us</h3>
@@ -120,10 +120,10 @@ const Contact = () => {
           </div>
           <div className="contact-list">
             <ul>
-              <li><img src="./assets/imgs/icon/icon-17.webp" alt="icon image"/>
+              <li><img src="/reactDigitalAgency/assets/imgs/icon/icon-17.webp" alt="icon image"/>
                 <a href="mailto:example@feuxgmail.com">example@feuxgmail.com</a>
               </li>
-              <li><img src="./assets/imgs/icon/icon-18.webp" alt="icon image"/>
+              <li><img src="/reactDigitalAgency/assets/imgs/icon/icon-18.webp" alt="icon image"/>
                 <a href="tel:+1287366566">+1 287-366-566</a>
               </li>
             </ul>
@@ -141,17 +141,17 @@ const Contact = () => {
           <form action="#">
             <div className="contact-formwrap">
               <div className="contact-formfield">
-                <img className="input-icon" src="./assets/imgs/icon/icon-19.webp" alt="image"/>
+                <img className="input-icon" src="/reactDigitalAgency/assets/imgs/icon/icon-19.webp" alt="image"/>
                 <h3 className="title">What’s your name?</h3>
                 <input type="text" name="Name" id="Name" placeholder="Full name here"/>
               </div>
               <div className="contact-formfield">
-                <img className="input-icon" src="./assets/imgs/icon/icon-20.webp" alt="image"/>
+                <img className="input-icon" src="/reactDigitalAgency/assets/imgs/icon/icon-20.webp" alt="image"/>
                 <h3 className="title">What’s your e-mail?</h3>
                 <input type="text" name="Email" id="Email" placeholder="Enter your mail here"/>
               </div>
               <div className="contact-formfield messages">
-                <img className="input-icon" src="./assets/imgs/icon/icon-21.webp" alt="image"/>
+                <img className="input-icon" src="/reactDigitalAgency/assets/imgs/icon/icon-21.webp" alt="image"/>
                 <h3 className="title">Have any message?</h3>
                 <input type="text" name="Messages" id="Messages" placeholder="Write your message here"/>
               </div>
@@ -181,7 +181,7 @@ const Contact = () => {
     <div className="choose-area-2-inner section-spacing">
       <div className="section-content-wrapper">
         <div className="choose-thumb fade-anim" data-direction="left">
-          <img src="./assets/imgs/gallery/image-20.webp" alt="image"/>
+          <img src="/reactDigitalAgency/assets/imgs/gallery/image-20.webp" alt="image"/>
         </div>
         <div className="section-content fade-anim" data-direction="right">
           <div className="section-title-wrapper">
@@ -196,7 +196,7 @@ const Contact = () => {
             <div className="features-wrapper">
               <div className="feature-box">
                 <div className="thumb">
-                  <img src="./assets/imgs/shape/shape-37.webp" alt="image"/>
+                  <img src="/reactDigitalAgency/assets/imgs/shape/shape-37.webp" alt="image"/>
                 </div>
                 <div className="content">
                   <h3 className="title">Proven Marketing</h3>
@@ -206,7 +206,7 @@ const Contact = () => {
               </div>
               <div className="feature-box">
                 <div className="thumb">
-                  <img src="./assets/imgs/shape/shape-38.webp" alt="image"/>
+                  <img src="/reactDigitalAgency/assets/imgs/shape/shape-38.webp" alt="image"/>
                 </div>
                 <div className="content">
                   <h3 className="title">Brand Strategy</h3>
@@ -216,7 +216,7 @@ const Contact = () => {
               </div>
               <div className="feature-box">
                 <div className="thumb">
-                  <img src="./assets/imgs/shape/shape-39.webp" alt="image"/>
+                  <img src="/reactDigitalAgency/assets/imgs/shape/shape-39.webp" alt="image"/>
                 </div>
                 <div className="content">
                   <h3 className="title">Winning Design</h3>

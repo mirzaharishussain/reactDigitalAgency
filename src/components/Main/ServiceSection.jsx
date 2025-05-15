@@ -77,7 +77,7 @@ const ServiceSection = () => {
               <div className="container">
                 <div className="header">
                   <div className="number">(01)</div>
-                  <h3 className="title">Design <span><img src="./reactDigitalAgency/assets/imgs/shape/shape-6.webp" alt=""/></span></h3>
+                  <h3 className="title">Design <span><img src="/reactDigitalAgency/assets/imgs/shape/shape-6.webp" alt=""/></span></h3>
                 </div>
                 <div className="service-box-inner body">
                   <div className="btn-wrapper">
@@ -100,7 +100,7 @@ const ServiceSection = () => {
               <div className="container">
                 <div className="header">
                   <div className="number">(02)</div>
-                  <h3 className="title">Development <span><img src="./reactDigitalAgency/assets/imgs/shape/shape-7.webp" alt=""/></span></h3>
+                  <h3 className="title">Development <span><img src="/reactDigitalAgency/assets/imgs/shape/shape-7.webp" alt=""/></span></h3>
                 </div>
                 <div className="service-box-inner body">
                   <div className="btn-wrapper">
@@ -123,7 +123,7 @@ const ServiceSection = () => {
               <div className="container">
                 <div className="header">
                   <div className="number">(03)</div>
-                  <h3 className="title">Marketing <span><img src="./reactDigitalAgency/assets/imgs/shape/shape-8.webp" alt=""/></span></h3>
+                  <h3 className="title">Marketing <span><img src="/reactDigitalAgency/assets/imgs/shape/shape-8.webp" alt=""/></span></h3>
                 </div>
                 <div className="service-box-inner body">
                   <div className="btn-wrapper">

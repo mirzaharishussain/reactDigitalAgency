@@ -7,7 +7,7 @@ const Footer = () => {
         
       <footer className="footer-area">
         <div className="area-bg">
-          <img src="./assets/imgs/gallery/image-8.webp" alt="image"/>
+          <img src="/reactDigitalAgency/assets/imgs/gallery/image-8.webp" alt="image"/>
         </div>
         <div className="container">
           <div className="footer-widget-wrapper-box">
@@ -51,10 +51,10 @@ const Footer = () => {
               <div className="footer-widget-box">
                 <h2 className="title">Instagram</h2>
                 <div className="instagram-posts">
-                  <a href="#"><img src="./assets/imgs/gallery/image-4.webp" alt="image"/></a>
-                  <a href="#"><img src="./assets/imgs/gallery/image-5.webp" alt="image"/></a>
-                  <a href="#"><img src="./assets/imgs/gallery/image-6.webp" alt="image"/></a>
-                  <a href="#"><img src="./assets/imgs/gallery/image-7.webp" alt="image"/></a>
+                  <a href="#"><img src="/reactDigitalAgency/assets/imgs/gallery/image-4.webp" alt="image"/></a>
+                  <a href="#"><img src="/reactDigitalAgency/assets/imgs/gallery/image-5.webp" alt="image"/></a>
+                  <a href="#"><img src="/reactDigitalAgency/assets/imgs/gallery/image-6.webp" alt="image"/></a>
+                  <a href="#"><img src="/reactDigitalAgency/assets/imgs/gallery/image-7.webp" alt="image"/></a>
                 </div>
               </div>
             </div>
@@ -64,7 +64,7 @@ const Footer = () => {
           <div className="container">
             <div className="copyright-area-inner">
               <div className="footer-logo">
-                <a href='index.html'><img src="./assets/imgs/logo/logo-light.png" alt="site logo"/></a>
+                <a href='index.html'><img src="/reactDigitalAgency/assets/imgs/logo/logo-light.png" alt="site logo"/></a>
               </div>
               <div className="copyright-text">
                 <p className="text">Copyright © 2025 <a href="#">Wprealizer</a>. All rights reserved.</p>

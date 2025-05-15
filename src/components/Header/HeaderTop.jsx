@@ -15,7 +15,7 @@ const HeaderTop = () => {
         <div className="offset-widget offset-header">
           <div className="offset-logo">
             <a href='index.html'>
-              <img src="./reactDigitalAgency/assets/imgs/logo/logo.png" alt="site logo"/>
+              <img src="/reactDigitalAgency/assets/imgs/logo/logo.png" alt="site logo"/>
             </a>
           </div>
           <button id="side-info-close" className="side-info-close">
@@ -36,10 +36,10 @@ const HeaderTop = () => {
             </a>
           </div>
           <div className="post-image">
-            <img src="./reactDigitalAgency/assets/imgs/gallery/image-48.webp" alt="image"/>
-            <img src="./reactDigitalAgency/assets/imgs/gallery/image-49.webp" alt="image"/>
-            <img src="./reactDigitalAgency/assets/imgs/gallery/image-50.webp" alt="image"/>
-            <img src="./reactDigitalAgency/assets/imgs/gallery/image-51.webp" alt="image"/>
+            <img src="/reactDigitalAgency/assets/imgs/gallery/image-48.webp" alt="image"/>
+            <img src="/reactDigitalAgency/assets/imgs/gallery/image-49.webp" alt="image"/>
+            <img src="/reactDigitalAgency/assets/imgs/gallery/image-50.webp" alt="image"/>
+            <img src="/reactDigitalAgency/assets/imgs/gallery/image-51.webp" alt="image"/>
           </div>
         </div>
         <div className="offset-widget-box">
@@ -66,7 +66,7 @@ const HeaderTop = () => {
           </div>
         </div>
         <div className="offset-logo-footer">
-          <img src="./reactDigitalAgency/assets/imgs/logo/logo-6.png" alt="image"/>
+          <img src="/reactDigitalAgency/assets/imgs/logo/logo-6.png" alt="image"/>
         </div>
       </div>
     </div>
