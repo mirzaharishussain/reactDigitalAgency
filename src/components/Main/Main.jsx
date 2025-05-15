@@ -5,7 +5,7 @@ import Brand from './Brand';
 import ServiceSection from './ServiceSection';
 import WorkArea from './WorkArea';
 
-// import '../../reactDigitalAgency/assets/css/ServiceCss.css';
+// import '../../assets/css/ServiceCss.css';
 
 gsap.registerPlugin(ScrollTrigger);
 // gsap.registerPlugin(SplitText);
