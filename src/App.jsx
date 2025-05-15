@@ -27,7 +27,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/reactDigitalAgency">
       <Routes>
       <Route path='/' element={<HomePage />}></Route>
       <Route path='/home' element={<HomePage />}></Route>
