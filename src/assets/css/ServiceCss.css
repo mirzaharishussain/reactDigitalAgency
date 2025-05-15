@@ -1,0 +1,28 @@
+.service-box-inner.body {
+  overflow: hidden;
+  transition: height 2s ease;
+}
+
+
+.service-box-1 .header {
+  background-color: var(--primary);
+  z-index: 2;
+  position: relative;
+}
+
+
+.item {
+  height: auto; /* was 100vh, remove it */
+  display: block;
+}
+
+
+/* Optional: remove if GSAP is animating */
+.service-box-1,
+.service-box-2,
+.service-box-3 {
+  /* remove this if gsap handles it */
+  /* opacity: 0; */
+  /* transform: translateY(50px); */
+  /* transition: all 0.6s ease-out; */
+}
