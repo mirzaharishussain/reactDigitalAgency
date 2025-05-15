@@ -11,7 +11,7 @@ const Header = () => {
         <div className="header-area-inner">
           <div className="header-logo">
             <a href='index.html'>
-              <img src="./assets/imgs/logo/logo-01.png" className="medium-logo" alt="Site Logo"/>
+              <img src="./reactDigitalAgency/assets/imgs/logo/logo-01.png" className="medium-logo" alt="Site Logo"/>
             </a>
           </div>
           <div className="site-category d-none d-md-inline-block">DIGITAL AGENCY ®</div>
@@ -59,7 +59,7 @@ const Header = () => {
           </div>
           <div className="header-offcanvas">
             <button className="side-toggle">
-              <img src="./assets/imgs/icon/icon-4.webp" alt="image"/></button>
+              <img src="./reactDigitalAgency/assets/imgs/icon/icon-4.webp" alt="image"/></button>
           </div>
         </div>
       </div>

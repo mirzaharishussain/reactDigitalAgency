@@ -38,7 +38,7 @@ const WorkArea = () => {
                 <span className="tag">MOCKUP</span>
               </div>
               <div className="">
-                <a href='portfolio-details.html'> <img src="./assets/imgs/project/project-1.webp" alt="image"/></a>
+                <a href='portfolio-details.html'> <img src="./reactDigitalAgency/assets/imgs/project/project-1.webp" alt="image"/></a>
               </div>
             </div>
             <div className="content">
@@ -62,7 +62,7 @@ const WorkArea = () => {
                 <span className="tag">MOCKUP</span>
               </div>
               <div className="">
-                <a href='portfolio-details.html'><img src="./assets/imgs/project/project-2.webp" alt="image"/></a>
+                <a href='portfolio-details.html'><img src="./reactDigitalAgency/assets/imgs/project/project-2.webp" alt="image"/></a>
               </div>
             </div>
             <div className="content">
@@ -86,7 +86,7 @@ const WorkArea = () => {
                 <span className="tag">MOCKUP</span>
               </div>
               <div className="">
-                <a href='portfolio-details.html'><img src="./assets/imgs/project/project-3.webp" alt="image"/></a>
+                <a href='portfolio-details.html'><img src="./reactDigitalAgency/assets/imgs/project/project-3.webp" alt="image"/></a>
               </div>
             </div>
             <div className="content">
@@ -110,7 +110,7 @@ const WorkArea = () => {
                 <span className="tag">MOCKUP</span>
               </div>
               <div className="">
-                <a href='portfolio-details.html'><img src="./assets/imgs/project/project-4.webp" alt="image"/></a>
+                <a href='portfolio-details.html'><img src="./reactDigitalAgency/assets/imgs/project/project-4.webp" alt="image"/></a>
               </div>
             </div>
             <div className="content">

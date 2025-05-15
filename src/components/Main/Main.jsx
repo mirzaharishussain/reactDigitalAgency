@@ -5,7 +5,7 @@ import Brand from './Brand';
 import ServiceSection from './ServiceSection';
 import WorkArea from './WorkArea';
 
-// import '../../assets/css/ServiceCss.css';
+// import '../../reactDigitalAgency/assets/css/ServiceCss.css';
 
 gsap.registerPlugin(ScrollTrigger);
 // gsap.registerPlugin(SplitText);
@@ -42,7 +42,7 @@ const Main = () => {
         <div className="section-title-wrapper">
           <div className="shape-1 fade-anim" data-direction="top" data-ease="bounce" data-delay="0.90"
             data-offset="100">
-            <img src="./assets/imgs/shape/shape-1.webp" alt="image"/>
+            <img src="./reactDigitalAgency/assets/imgs/shape/shape-1.webp" alt="image"/>
           </div>
           <div className="subtitle-wrapper">
             <span className="section-subtitle char-anim" data-direction="left" data-delay="0.45"
@@ -138,12 +138,12 @@ const Main = () => {
         <div className="about-thumb fade-anim">
           <div className="btn-wrapper">
             <a href="#awards" className="circle-text btn-item">
-              <img src="./assets/imgs/shape/shape-2.webp" alt="image" className="text"/>
-              <img src="./assets/imgs/shape/shape-3.webp" alt="image" className="icon"/>
+              <img src="./reactDigitalAgency/assets/imgs/shape/shape-2.webp" alt="image" className="text"/>
+              <img src="./reactDigitalAgency/assets/imgs/shape/shape-3.webp" alt="image" className="icon"/>
             </a>
           </div>
           <div className="image img_anim_reveal">
-            <img src="./assets/imgs/gallery/image-2.webp" alt="image"/>
+            <img src="./reactDigitalAgency/assets/imgs/gallery/image-2.webp" alt="image"/>
           </div>
         </div>
       </div>
@@ -204,7 +204,7 @@ const Main = () => {
           <div className="process-box-1 fade-anim">
             <span className="number">01</span>
             <div className="thumb">
-              <img src="./assets/imgs/icon/icon-1.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/icon/icon-1.webp" alt="image"/>
             </div>
             <div className="content">
               <h3 className="title">Discovery & Research</h3>
@@ -215,7 +215,7 @@ const Main = () => {
           <div className="process-box-1 fade-anim">
             <span className="number">02</span>
             <div className="thumb">
-              <img src="./assets/imgs/icon/icon-2.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/icon/icon-2.webp" alt="image"/>
             </div>
             <div className="content">
               <h3 className="title">Design & Development</h3>
@@ -226,7 +226,7 @@ const Main = () => {
           <div className="process-box-1 fade-anim">
             <span className="number">03</span>
             <div className="thumb">
-              <img src="./assets/imgs/icon/icon-3.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/icon/icon-3.webp" alt="image"/>
             </div>
             <div className="content">
               <h3 className="title">Launch & Support</h3>
@@ -277,9 +277,9 @@ const Main = () => {
       <div className="container">
         <div className="testimonial-wrapper fade-anim">
           <div className="slide-nav">
-            <div className="testimonial-button-prev slide-nav-button"><img src="./assets/imgs/icon/icon-14.webp"
+            <div className="testimonial-button-prev slide-nav-button"><img src="./reactDigitalAgency/assets/imgs/icon/icon-14.webp"
                 alt="image"/></div>
-            <div className="testimonial-button-next slide-nav-button"><img src="./assets/imgs/icon/icon-15.webp"
+            <div className="testimonial-button-next slide-nav-button"><img src="./reactDigitalAgency/assets/imgs/icon/icon-15.webp"
                 alt="image"/></div>
           </div>
           <div className="swiper testimonial-content-active">
@@ -340,17 +340,17 @@ const Main = () => {
             <div className="swiper-wrapper">
               <div className="swiper-slide">
                 <div className="avatar">
-                  <img src="./assets/imgs/client/client-1.webp" alt="image"/>
+                  <img src="./reactDigitalAgency/assets/imgs/client/client-1.webp" alt="image"/>
                 </div>
               </div>
               <div className="swiper-slide">
                 <div className="avatar">
-                  <img src="./assets/imgs/client/client-2.webp" alt="image"/>
+                  <img src="./reactDigitalAgency/assets/imgs/client/client-2.webp" alt="image"/>
                 </div>
               </div>
               <div className="swiper-slide">
                 <div className="avatar">
-                  <img src="./assets/imgs/client/client-3.webp" alt="image"/>
+                  <img src="./reactDigitalAgency/assets/imgs/client/client-3.webp" alt="image"/>
                 </div>
               </div>
             </div>
@@ -395,10 +395,10 @@ const Main = () => {
             <div className="thumb">
               <span className="number">01</span>
               <div className="icon">
-                <img src="./assets/imgs/shape/shape-9.webp" alt="image"/>
+                <img src="./reactDigitalAgency/assets/imgs/shape/shape-9.webp" alt="image"/>
               </div>
               <span className="post">CEO/ FOUNDER</span>
-              <img src="./assets/imgs/team/team-1.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/team/team-1.webp" alt="image"/>
             </div>
             <div className="content">
               <h3 className="name">Berrymen Wills</h3>
@@ -408,10 +408,10 @@ const Main = () => {
             <div className="thumb">
               <span className="number">02</span>
               <div className="icon">
-                <img src="./assets/imgs/shape/shape-9.webp" alt="image"/>
+                <img src="./reactDigitalAgency/assets/imgs/shape/shape-9.webp" alt="image"/>
               </div>
               <span className="post">UI/UX DESIGNER</span>
-              <img src="./assets/imgs/team/team-2.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/team/team-2.webp" alt="image"/>
             </div>
             <div className="content">
               <h3 className="name">Emilly Mayore</h3>
@@ -421,10 +421,10 @@ const Main = () => {
             <div className="thumb">
               <span className="number">03</span>
               <div className="icon">
-                <img src="./assets/imgs/shape/shape-9.webp" alt="image"/>
+                <img src="./reactDigitalAgency/assets/imgs/shape/shape-9.webp" alt="image"/>
               </div>
               <span className="post">WEB DESIGNER</span>
-              <img src="./assets/imgs/team/team-3.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/team/team-3.webp" alt="image"/>
             </div>
             <div className="content">
               <h3 className="name">Nelson Scott</h3>
@@ -445,27 +445,27 @@ const Main = () => {
         <div className="swiper-wrapper">
           <div className="swiper-slide">
             <div className="text-slider-item">
-              <h2 className="title"><img src="./assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
+              <h2 className="title"><img src="./reactDigitalAgency/assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
             </div>
           </div>
           <div className="swiper-slide">
             <div className="text-slider-item">
-              <h2 className="title"><img src="./assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
+              <h2 className="title"><img src="./reactDigitalAgency/assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
             </div>
           </div>
           <div className="swiper-slide">
             <div className="text-slider-item">
-              <h2 className="title"><img src="./assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
+              <h2 className="title"><img src="./reactDigitalAgency/assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
             </div>
           </div>
           <div className="swiper-slide">
             <div className="text-slider-item">
-              <h2 className="title"><img src="./assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
+              <h2 className="title"><img src="./reactDigitalAgency/assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
             </div>
           </div>
           <div className="swiper-slide">
             <div className="text-slider-item">
-              <h2 className="title"><img src="./assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
+              <h2 className="title"><img src="./reactDigitalAgency/assets/imgs/shape/shape-10.webp" alt="image"/><a href='contact.html'>LET’S CONNECT</a></h2>
             </div>
           </div>
         </div>
@@ -501,7 +501,7 @@ const Main = () => {
             <h3 className="title">Creative Excellence Award</h3>
             <span className="year">2024</span>
             <div className="thumb">
-              <img src="./assets/imgs/gallery/image-3.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/gallery/image-3.webp" alt="image"/>
             </div>
             <span className="category">Best Branding Project</span>
           </div>
@@ -509,7 +509,7 @@ const Main = () => {
             <h3 className="title">Visionary Design Award</h3>
             <span className="year">2023</span>
             <div className="thumb">
-              <img src="./assets/imgs/gallery/image-34.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/gallery/image-34.webp" alt="image"/>
             </div>
             <span className="category">Best Digital Campaign</span>
           </div>
@@ -517,7 +517,7 @@ const Main = () => {
             <h3 className="title">Global Art Direction Award</h3>
             <span className="year">2022</span>
             <div className="thumb">
-              <img src="./assets/imgs/gallery/image-35.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/gallery/image-35.webp" alt="image"/>
             </div>
             <span className="category">Best Art Direction</span>
           </div>
@@ -525,7 +525,7 @@ const Main = () => {
             <h3 className="title">Elite Event Design Award</h3>
             <span className="year">2021</span>
             <div className="thumb">
-              <img src="./assets/imgs/gallery/image-36.webp" alt="image"/>
+              <img src="./reactDigitalAgency/assets/imgs/gallery/image-36.webp" alt="image"/>
             </div>
             <span className="category">Best Event Branding</span>
           </div>
@@ -567,7 +567,7 @@ const Main = () => {
           <article className="blog-1 fade-anim" data-delay="0.30" data-direction="right">
             <div className="thumb">
               <span className="tag">BRANDING</span>
-              <a href='blog-details.html'><img src="./assets/imgs/blog/blog-1.webp" alt="image"/> </a>
+              <a href='blog-details.html'><img src="./reactDigitalAgency/assets/imgs/blog/blog-1.webp" alt="image"/> </a>
             </div>
             <div className="content-wrapper">
               <div className="content">
@@ -581,7 +581,7 @@ const Main = () => {
           <article className="blog-1 fade-anim" data-delay="0.45" data-direction="right">
             <div className="thumb">
               <span className="tag">DESIGN</span>
-              <a href='blog-details.html'><img src="./assets/imgs/blog/blog-2.webp" alt="image"/> </a>
+              <a href='blog-details.html'><img src="./reactDigitalAgency/assets/imgs/blog/blog-2.webp" alt="image"/> </a>
             </div>
             <div className="content-wrapper">
               <div className="content">
@@ -596,7 +596,7 @@ const Main = () => {
           <article className="blog-1 fade-anim" data-delay="0.60" data-direction="right">
             <div className="thumb">
               <span className="tag">BRANDING</span>
-              <a href='blog-details.html'><img src="./assets/imgs/blog/blog-3.webp" alt="image"/> </a>
+              <a href='blog-details.html'><img src="./reactDigitalAgency/assets/imgs/blog/blog-3.webp" alt="image"/> </a>
             </div>
             <div className="content-wrapper">
               <div className="content">

@@ -41,38 +41,38 @@ const Brand = () => {
                     <SwiperSlide>
                     <div className="swiper-slide">
                         <div className="brand-item">
-                            <img src="./assets/imgs/brand/brand-1.webp" alt="image"/>
+                            <img src="./reactDigitalAgency/assets/imgs/brand/brand-1.webp" alt="image"/>
                         </div>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide><div className="swiper-slide">
                   <div className="brand-item">
-                    <img src="./assets/imgs/brand/brand-2.webp" alt="image"/>
+                    <img src="./reactDigitalAgency/assets/imgs/brand/brand-2.webp" alt="image"/>
                   </div>
                 </div></SwiperSlide>                
                 <SwiperSlide><div className="swiper-slide">
                   <div className="brand-item">
-                    <img src="./assets/imgs/brand/brand-3.webp" alt="image"/>
+                    <img src="./reactDigitalAgency/assets/imgs/brand/brand-3.webp" alt="image"/>
                   </div>
                 </div></SwiperSlide>
                 <SwiperSlide>
                 <div className="swiper-slide">
                   <div className="brand-item">
-                    <img src="./assets/imgs/brand/brand-1.webp" alt="image"/>
+                    <img src="./reactDigitalAgency/assets/imgs/brand/brand-1.webp" alt="image"/>
                   </div>
                 </div>
                 </SwiperSlide>
                 <SwiperSlide>
                 <div className="swiper-slide">
                   <div className="brand-item">
-                    <img src="./assets/imgs/brand/brand-2.webp" alt="image"/>
+                    <img src="./reactDigitalAgency/assets/imgs/brand/brand-2.webp" alt="image"/>
                   </div>
                 </div>
                 </SwiperSlide>
                 
                 <SwiperSlide><div className="swiper-slide">
                   <div className="brand-item">
-                    <img src="./assets/imgs/brand/brand-3.webp" alt="image"/>
+                    <img src="./reactDigitalAgency/assets/imgs/brand/brand-3.webp" alt="image"/>
                   </div>
                 </div></SwiperSlide>
             </Swiper>
