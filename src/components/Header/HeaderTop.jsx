@@ -15,7 +15,7 @@ const HeaderTop = () => {
         <div className="offset-widget offset-header">
           <div className="offset-logo">
             <a href='index.html'>
-              <img src="/reactDigitalAgency/assets/imgs/logo/logo.png" alt="site logo"/>
+              <img src="/reactDigitalAgency/assets/imgs/logo/logo-01.png" alt="site logo"/>
             </a>
           </div>
           <button id="side-info-close" className="side-info-close">
